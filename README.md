@@ -1,3 +1,7 @@
+# 💻 Git Pages
+**https://jegarciay.github.io/Parcial-Corte-2/**
+
+
 # 🌟 Disney - Página Principal
 
 Una recreación de la página principal de **Disney**, diseñada con **HTML5** y **CSS3**, que muestra secciones inspiradas en películas, Disney+, parques temáticos y promociones especiales.  
